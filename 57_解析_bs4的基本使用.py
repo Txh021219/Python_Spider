@@ -98,3 +98,6 @@ print(obj.get('class'))
 print(obj.attrs.get('class'))
 print(obj['class'])
 
+
+
+
